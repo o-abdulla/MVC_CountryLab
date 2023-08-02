@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\bin\Debug\net6.0\MVC_Countries.exe
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\bin\Debug\net6.0\MVC_Countries.deps.json
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\bin\Debug\net6.0\MVC_Countries.runtimeconfig.json
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\bin\Debug\net6.0\MVC_Countries.dll
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\bin\Debug\net6.0\MVC_Countries.pdb
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\obj\Debug\net6.0\MVC_Countries.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\obj\Debug\net6.0\MVC_Countries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\obj\Debug\net6.0\MVC_Countries.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\obj\Debug\net6.0\MVC_Countries.AssemblyInfo.cs
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\obj\Debug\net6.0\MVC_Countries.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\obj\Debug\net6.0\MVC_Countries.dll
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\obj\Debug\net6.0\refint\MVC_Countries.dll
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\obj\Debug\net6.0\MVC_Countries.pdb
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\obj\Debug\net6.0\MVC_Countries.genruntimeconfig.cache
+C:\Users\osabd\source\repos\MVC_Countries\MVC_Countries\obj\Debug\net6.0\ref\MVC_Countries.dll
